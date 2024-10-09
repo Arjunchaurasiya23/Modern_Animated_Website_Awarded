@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import LandingPage from './components/LandingPage';
 import Marquee from './components/Marquee';
-import About from './components/about';
+import About from './components/About';
 import Eyes from './components/Eyes';
 import Featured from './components/Featured';
 import Featured2 from './components/Featured2';
